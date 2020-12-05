@@ -3,4 +3,4 @@
 ### This repository also is an Intro to R specifically focusing on ggplot2.
 #### To know more about this plot , please read this article : https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption. 
 
-![economist](./Corruption-development/economist.png)
+![CPI v/s HDI](econ_plot.jpeg)
